@@ -1,0 +1,16 @@
+#features {
+    background-color: $light;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    .feature-icon {
+        width: 110px;
+        display: block;
+        margin: 30px auto;
+    }
+    .feature-title {
+        color: $primary;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+}

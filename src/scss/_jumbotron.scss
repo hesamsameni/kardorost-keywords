@@ -1,8 +1,7 @@
 .jumbotron {
-    background-color: $primary;
+    background-color: $accent;
     h1,
     p {
-        text-align: right !important;
-        color: $light;
+        color: $dark;
     }
 }
