@@ -1,0 +1,23 @@
+#results {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    .result-checkbox {
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid lightgray;
+    }
+    .table-title {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 30px;
+    }
+    table {
+        border: 2px solid #ededed;
+    }
+    .result-container,
+    .chart-container {
+        border-radius: 2px;
+        padding: 20px;
+        box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.16);
+    }
+}
